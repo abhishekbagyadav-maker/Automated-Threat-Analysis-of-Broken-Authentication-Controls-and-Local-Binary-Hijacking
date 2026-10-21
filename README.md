@@ -1,0 +1,2 @@
+# Automated-Threat-Analysis-of-Broken-Authentication-Controls-and-Local-Binary-Hijacking
+A cybersecurity major project exploring web application security assessment, Nmap reconnaissance, directory enumeration, file-upload validation, reverse-shell testing, and Linux privilege escalation in the authorized TryHackMe RootMe lab, with a focus on evidence-based findings and defensive security recommendations.
